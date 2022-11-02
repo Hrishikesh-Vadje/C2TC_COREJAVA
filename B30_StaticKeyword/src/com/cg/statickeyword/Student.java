@@ -52,7 +52,7 @@ public class Student {
 	public void change()
 	{
 		
-		this.name="Hunter";
+		this.name="Human";
 	}
 	
 
