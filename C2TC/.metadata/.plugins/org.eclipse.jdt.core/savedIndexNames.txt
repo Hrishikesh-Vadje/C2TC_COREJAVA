@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Hrishi Vadje\git\C2TC_COREJAVA\C2TC\.metadata\.plugins\org.eclipse.jdt.core
