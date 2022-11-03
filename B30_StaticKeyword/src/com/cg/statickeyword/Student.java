@@ -58,6 +58,7 @@ public class Student {
 	public void info()
 	{
 		System.out.println(name+" "+mobile+" "+email+" "+college+" "+cgpa);
+		
 	}
 	
 
