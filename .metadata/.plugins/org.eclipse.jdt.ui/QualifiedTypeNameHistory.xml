@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.cg.ThisKeyword.Demo1"/>
+    <fullyQualifiedTypeName name="com.cg.ThisKeyword.Base"/>
+    <fullyQualifiedTypeName name="com.cg.ThisKeyword.Base3"/>
 </qualifiedTypeNameHistroy>
